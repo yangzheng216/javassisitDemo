@@ -1,1 +1,2 @@
 # javassisitDemo
+本demo演示了javassisit的一些基本用法，并且，里面包含了jar的压缩和解压的代码，这部分代码也是有保留价值的
